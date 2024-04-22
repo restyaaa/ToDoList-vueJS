@@ -1,0 +1,19 @@
+{
+    "name": "ToDoList",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#EB3E48",
+    "background_color": "black",
+    "icons": [{
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        }
+    ]
+}
